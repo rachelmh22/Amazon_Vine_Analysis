@@ -8,7 +8,7 @@ For this project, we are asked to analyze reviews from a chosen dataset. PySpark
 
 - How many Vine reviews and non-Vine reviews were there?
 
-![unpaid_vote](/images/unpaid_vote.png)
+<img width="758" alt=" unpaid_vote" src="https://user-images.githubusercontent.com/100614930/175850994-858e4cab-e8bc-4f04-b8fc-21cb74464373.png">
 
 There was 37,840 non-vine reviews
 
